@@ -1,0 +1,8 @@
+{
+  "name": "ClipPro AI",
+  "description": "Premium modern web video editor with a multi-layer timeline, rich text engine, transition selectors, effects and filters, and built-in server-side Gemini AI features.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
